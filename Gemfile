@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-ruby '2.7.0'
-
+# ruby '2.7.0'
+gem 'unicorn'
 gem 'rails', '~> 5.2.6'
 gem 'sqlite3'
 gem 'puma', '~> 3.11'
